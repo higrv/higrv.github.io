@@ -9,11 +9,11 @@ baseurl:
 # Title of the Site
 title: Gaurav Chopra
 # Description of the Site
-description: I am a Web developer, a problem solver with a passion for WordPress.<br>With over 2 years' experience in Web development, I've worked with 20+ SMEs across India and US to bring their ideas to life. I'm curious about the world around me and I love learning from my experiences. On a personal front I make music and play Table Tennis for fun.<br>At present, I am working as a freelance Web Developer.
+description: I am a Web developer, a problem solver with a passion for WordPress.
 # URL of Image of the Site
 site-image: /WhatATheme/assets/images/meta.jpg
 # Keywords of the Site
-site-keywords: Site, Template, Theme
+site-keywords: Gaurav, Chopra, Gaurav Chopra, GRVC
 # URL for the Image of custom Favicon
 favicon-url: https://images.weserv.nl/?url=https://github.com/higrv.png&h=300&w=300&fit=cover&mask=circle&maxage=7d
 
@@ -43,9 +43,9 @@ disqus-shortname:
 # Name of the Author
 author-name: Gaurav Chopra
 # URL for the Image of the Author
-author-image: https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png
+author-image: https://images.weserv.nl/?url=https://github.com/higrv.png&h=300&w=300&fit=cover&mask=circle&maxage=7d
 # 60 Words About the Author
-author-about: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eget pharetra velit, dapibus bibendum ex. Maecenas vitae laoreet mauris, ac luctus metus. Aliquam luctus velit vel ipsum feugiat, vel venenatis mauris hendrerit. Sed at vulputate sapien, eget vehicula dolor. Aliquam volutpat pulvinar neque sit amet sodales.
+author-about: I am a Web developer, a problem solver with a passion for WordPress.<br>With over 2 years' experience in Web development, I've worked with 20+ SMEs across India and US to bring their ideas to life. I'm curious about the world around me and I love learning from my experiences. On a personal front I make music and play Table Tennis for fun.<br>At present, I am working as a freelance Web Developer.
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
 author-url: https://github.com/higrv
 
